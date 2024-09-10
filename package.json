@@ -1,0 +1,24 @@
+{
+  "name": "yash-back",
+  "version": "1.0.0",
+  "description": "project setup of backend",
+  "main": "index.js",
+  "scripts": {
+    "test": ""  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashsrivastava0/yash-backend.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "yash"
+  ],
+  "author": "yash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashsrivastava0/yash-backend/issues"
+  },
+  "homepage": "https://github.com/yashsrivastava0/yash-backend#readme"
+}
